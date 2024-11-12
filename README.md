@@ -1,3 +1,3 @@
-# goit-markup-hw-05
+# goit-markup-hw-06
 
-homework5 go it week 5
+homework6 go it week 6
